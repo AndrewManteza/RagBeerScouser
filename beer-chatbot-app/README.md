@@ -99,9 +99,9 @@ beer-chatbot-app/
 ## 🔧 Environment Variables
 
 ```bash
-DATABRICKS_HOST=https://your-workspace.cloud.databricks.com
-DATABRICKS_TOKEN=your_token_here
-ENDPOINT_NAME=beer-rag-chatbot-endpoint
+DATABRICKS_HOST=
+DATABRICKS_TOKEN=
+ENDPOINT_NAME=
 ```
 
 ## 🌐 Does it Work with GitHub Pages?
