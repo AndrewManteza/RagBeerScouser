@@ -1,3 +1,5 @@
+Link to Vercel deployed app: https://ragbeerscouser.vercel.app/
+
 # 🍺 Beer Knowledge Chatbot
 
 A React + Express web app that uses Databricks RAG to answer questions about beer styles, brewing, and flavors.
