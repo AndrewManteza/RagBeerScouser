@@ -44,9 +44,9 @@ git push -u origin main
 1. Go to https://vercel.com/new
 2. Import your GitHub repository
 3. **Add Environment Variables** (Settings → Environment Variables):
-   - `DATABRICKS_HOST` = `https://dbc-ed0aa653-24ab.cloud.databricks.com`
+   - `DATABRICKS_HOST` = ``
    - `DATABRICKS_TOKEN` = Your Databricks token
-   - `ENDPOINT_NAME` = `beer-rag-chatbot-endpoint`
+   - `ENDPOINT_NAME` = ``
 
 4. Click **Deploy**
 
